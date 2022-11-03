@@ -1,0 +1,11 @@
+{
+  "name": "manhunt",
+  "version": "1.0.0",
+  "description": "In The Feild Manhunt server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Bel",
+  "license": "MIT"
+}
